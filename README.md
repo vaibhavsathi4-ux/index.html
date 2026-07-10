@@ -215,7 +215,6 @@ chat_tutor/
 
 ## 🏗️ **System Design Overview**
 
-```
 +--------------------+        +-------------------+        +------------------+
 |   Frontend UI      | <--- HTTP/S ---> |   API Gateway    | <--- HTTP/S ---> |
 | (React/Vue/Angle) |        +-------------------+        +------------------+
@@ -262,3 +261,4 @@ chat_tutor/
                                |   Conversation DB |
                                | (PostgreSQL)      |
                                +-------------------+
+'''
