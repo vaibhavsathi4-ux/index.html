@@ -1,4 +1,4 @@
-# index.html
+# ChatTutor ~~ LLM
 🚀 Project Title
 ChatTutor
 
