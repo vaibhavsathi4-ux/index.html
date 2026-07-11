@@ -49,6 +49,7 @@ UX
 Source code
 
 ⏱️ Constraints
+before 14 july
 
 💡 Bonus Ideas
  📑  History memory
